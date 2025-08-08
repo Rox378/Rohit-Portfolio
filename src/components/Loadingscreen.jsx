@@ -29,7 +29,7 @@ export const Loadingscreen = ({ onComplete }) =>{
                 {text} <span className="animate-blink ml-1"></span>
             </div>
             <div className="w-[200px] h-[2px] bg-gray-100 overflow-hidden rounded relative">
-                <div className="[w-40%] h-full bg-blue-500 shadow-[0_0_15px_#3b82f6] animate-loading-bar">
+                <div className="w-[40%] h-full bg-blue-500 shadow-[0_0_15px_#3b82f6] animate-loading-bar">
                  
                 </div>
             </div>
