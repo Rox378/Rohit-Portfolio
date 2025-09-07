@@ -16,7 +16,7 @@ export const Projects = () =>{
                           <h3 className="text-xl font-bold mb-4">
                           Kids Academy 🏢</h3>
                             <p className="text-gray-400 mb-4">
-                                Developed an interactive and responsive educational platform for children, incorporating engagingFront-End development principles.
+                              Developed an interactive and responsive educational platform for children, incorporating engagingFront-End development principles.
                               </p>
                               <div className="flex flex-wrap gap-2 mb-4">
                                 {["React", "Node.js", "JavaScript",].map((tech,key)=>(
